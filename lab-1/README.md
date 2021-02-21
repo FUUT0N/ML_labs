@@ -6,9 +6,10 @@
 * Установить библиотеки pandas и matplotlib.
 * С помощью python обработать данные из файла и нарисовать два графика:
     * тенденция по годам по всем странам
-    * тенденция по топ-5 странам по годам.
+    * тенденция по топ-5 странам по годам
 
 ## Графики
 
-![] (https://github.com/FUUT0N/ML_labs/tree/main/lab-1/plots/myplot1.png)
-![] (https://github.com/FUUT0N/ML_labs/tree/main/lab-1/plots/myplot2.png)
+![Тенденция по годам по всем странам] (https://github.com/FUUT0N/ML_labs/tree/main/lab-1/plots/myplot1.png)
+
+![Тенденция по топ-5 странам по годам] (https://github.com/FUUT0N/ML_labs/tree/main/lab-1/plots/myplot2.png)
