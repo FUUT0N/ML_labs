@@ -10,3 +10,5 @@
 
 ## Графики
 
+![] (https://github.com/FUUT0N/ML_labs/tree/main/lab-1/plots/myplot1.png)
+![] (https://github.com/FUUT0N/ML_labs/tree/main/lab-1/plots/myplot2.png)
