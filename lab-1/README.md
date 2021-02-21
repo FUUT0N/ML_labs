@@ -10,6 +10,7 @@
 
 ## Графики
 
-![Тенденция по годам по всем странам] (https://github.com/FUUT0N/ML_labs/tree/main/lab-1/plots/myplot1.png)
+![Тенденция по годам по всем странам](https://user-images.githubusercontent.com/32179747/108641236-4a533d00-74af-11eb-9fb1-bff50e76d27d.png)
 
-![Тенденция по топ-5 странам по годам] (https://github.com/FUUT0N/ML_labs/tree/main/lab-1/plots/myplot2.png)
+
+![Тенденция по топ-5 странам по годам](https://user-images.githubusercontent.com/32179747/108641200-0ceeaf80-74af-11eb-81e5-2a4faa64ba34.png)
