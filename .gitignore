@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore csv
+*.csv
+
+# Ignore zip/rar
+*.zip
+
+# Ignore images
+*.png
+
 # Distribution / packaging
 .Python
 build/
