@@ -12,10 +12,10 @@
 
 ## Изображения
 
-# Исходное изображение
+### Исходное изображение
 
 ![Исходное изображение](https://github.com/FUUT0N/ML_labs/blob/main/lab-2/images/test1.jpg)
 
-# Обработанное изображение
+### Обработанное изображение
 
 ![Обработанное изображение](https://github.com/FUUT0N/ML_labs/blob/main/lab-2/tested_images/test1.jpg)
