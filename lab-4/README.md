@@ -16,7 +16,7 @@
 
 ### Метод локтя
 
-![alt text](lab-4/elbow_method.png)
+![Метод локтя](elbow_method.png)
 
 ### Дендрограмма
 
