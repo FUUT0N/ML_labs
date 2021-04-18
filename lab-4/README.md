@@ -20,4 +20,4 @@
 
 ### Дендрограмма
 
-![Дендрограмма](https://bmstu.codes/bashir.gabibulaev/ML_labs/-/blob/main/lab-4/hierarchy.png)
+![Дендрограмма](hierarchy.png)
